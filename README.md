@@ -1,1 +1,1 @@
-Created a personal website using HTML, CSS, and JavaScript
+This project is a web application built using [HTML, CSS, and JavaScript]. It includes a backend API to handle requests, process data, and manage responses, along with a frontend user interface for user interaction. The code follows a modular structure and implements best practices for clean code and scalability.
